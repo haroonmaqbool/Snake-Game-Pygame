@@ -22,6 +22,8 @@ This is a classic Snake Game built using Python and the Pygame library. The game
 
 ## Screenshots
 ![image](https://github.com/haroonmaqbool/Snake-Game-Pygame/assets/160936682/233645e4-8c73-4ef8-b2ec-65fb8372876f)
+![image](https://github.com/haroonmaqbool/Snake-Game-Pygame/assets/160936682/9d84d96a-dce3-46a3-8cdb-1c61f142113e)
+![image](https://github.com/haroonmaqbool/Snake-Game-Pygame/assets/160936682/e3678f20-8793-4757-a2fd-983919b43210)
 
 
 ## About the Author
