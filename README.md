@@ -22,11 +22,11 @@ This is a classic Snake Game built using Python and the Pygame library. The game
 
 ## Screenshots
 ### Main Menu
-(https://github.com/haroonmaqbool/Snake-Game-Pygame/assets/main_menu.png)
+https://github.com/haroonmaqbool/Snake-Game-Pygame/assets/main_menu.png
 ### Free Mode Gameplay
-(https://github.com/haroonmaqbool/Snake-Game-Pygame/assets/free_mode_gameplay.png)
+https://github.com/haroonmaqbool/Snake-Game-Pygame/assets/free_mode_gameplay.png
 ### Game End Menu 
-(https://github.com/haroonmaqbool/Snake-Game-Pygame/assets/target_mode_gameplay.png)
+https://github.com/haroonmaqbool/Snake-Game-Pygame/assets/target_mode_gameplay.png
 
 ## About the Author
 
